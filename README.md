@@ -1,4 +1,4 @@
-### Frequency-aware Network for Low-light Image Enhancement
+# Frequency-aware Network for Low-light Image Enhancement
 This is the code repository of the paper:"Frequency-aware Network for Low-light Image Enhancement"
 
 #### Abstract
